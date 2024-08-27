@@ -20,7 +20,7 @@ Ensure you have the following installed on your system:
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 2. Install dependencies:
-   
+   ```bash
    npm install
    
 4. Set up environment variables:
