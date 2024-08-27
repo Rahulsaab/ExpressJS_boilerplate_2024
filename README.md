@@ -24,12 +24,12 @@ Ensure you have the following installed on your system:
    npm install
    
 4. Set up environment variables:
-   
+   ```bash
    PORT=your_port_number
    MONGO_URI=your_connection_string
 
 6. Run the project:
-   
+   ```bash
    npm start
 
 8. Contributing
